@@ -1,0 +1,21 @@
+.gzo-wrap{margin-top:16px}
+.gzo-section{margin-bottom:28px;padding:16px;border:1px solid #e5e7eb;border-radius:12px}
+.gzo-title{margin:0 0 12px 0;font-size:20px}
+.gzo-header-row{display:flex;gap:16px;align-items:center;justify-content:space-between;flex-wrap:wrap}
+.gzo-year-form{display:flex;gap:8px;align-items:center}
+.gzo-year-label{font-size:14px}
+.gzo-note{padding:10px 12px;background:#fff7ed;border:1px solid #fed7aa;border-radius:10px;font-size:14px;margin-bottom:12px}
+.gzo-empty{padding:10px 12px;background:#f9fafb;border:1px solid #e5e7eb;border-radius:10px;font-size:14px}
+.gzo-list{display:flex;flex-direction:column;gap:10px}
+.gzo-row{display:flex;gap:12px;align-items:flex-start;justify-content:space-between;padding:12px;border:1px solid #e5e7eb;border-radius:12px}
+.gzo-col{display:flex;flex-direction:column;gap:6px}
+.gzo-col-main{flex:1 1 auto;min-width:220px}
+.gzo-col-amount{flex:0 0 auto;min-width:140px;align-items:flex-end}
+.gzo-col-actions{flex:0 0 auto;min-width:64px;align-items:flex-end}
+.gzo-doc{display:flex;gap:10px;flex-wrap:wrap}
+.gzo-doc-type{font-weight:600}
+.gzo-doc-number{opacity:.85}
+.gzo-meta{display:flex;gap:12px;flex-wrap:wrap;font-size:13px;opacity:.9}
+.gzo-amount{font-weight:700}
+.gzo-btn{display:inline-flex;align-items:center;justify-content:center;padding:8px 10px;border-radius:10px;border:1px solid #d1d5db;text-decoration:none;font-size:14px}
+.gzo-btn:hover{border-color:#9ca3af}

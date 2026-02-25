@@ -1,0 +1,147 @@
+{
+  "unpaid": [
+    {
+      "doc_type": "Invoice",
+      "doc_number": "INV-2026-00124",
+      "date": "2026-02-10",
+      "amount_eur": 1840.5,
+      "days_overdue": 12,
+      "pdf_available": true,
+      "pdf_type": "invoice"
+    },
+    {
+      "doc_type": "Proforma",
+      "doc_number": "PF-2026-00077",
+      "date": "2026-01-28",
+      "amount_eur": 560.0,
+      "days_overdue": 0,
+      "pdf_available": true,
+      "pdf_type": "proforma"
+    },
+    {
+      "doc_type": "Goods receipt",
+      "doc_number": "GR-2026-00411",
+      "date": "2026-02-18",
+      "amount_eur": 219.99,
+      "days_overdue": 0,
+      "pdf_available": false,
+      "pdf_type": null
+    },
+    {
+      "doc_type": "Invoice",
+      "doc_number": "INV-2025-00987",
+      "date": "2025-12-19",
+      "amount_eur": 4200.0,
+      "days_overdue": 38,
+      "pdf_available": true,
+      "pdf_type": "invoice"
+    },
+    {
+      "doc_type": "Proforma",
+      "doc_number": "PF-2025-00312",
+      "date": "2025-11-03",
+      "amount_eur": 980.75,
+      "days_overdue": 91,
+      "pdf_available": true,
+      "pdf_type": "proforma"
+    },
+    {
+      "doc_type": "Goods receipt",
+      "doc_number": "GR-2025-01002",
+      "date": "2025-10-21",
+      "amount_eur": 149.0,
+      "days_overdue": 0,
+      "pdf_available": false,
+      "pdf_type": null
+    }
+  ],
+  "paid_by_year": {
+    "2026": [
+      {
+        "doc_type": "Invoice",
+        "doc_number": "INV-2026-00045",
+        "date": "2026-01-12",
+        "amount_eur": 1320.0,
+        "days_overdue": 0,
+        "pdf_available": true,
+        "pdf_type": "invoice"
+      },
+      {
+        "doc_type": "Proforma",
+        "doc_number": "PF-2026-00012",
+        "date": "2026-01-05",
+        "amount_eur": 250.0,
+        "days_overdue": 0,
+        "pdf_available": true,
+        "pdf_type": "proforma"
+      },
+      {
+        "doc_type": "Goods receipt",
+        "doc_number": "GR-2026-00088",
+        "date": "2026-01-29",
+        "amount_eur": 89.9,
+        "days_overdue": 0,
+        "pdf_available": false,
+        "pdf_type": null
+      }
+    ],
+    "2025": [
+      {
+        "doc_type": "Invoice",
+        "doc_number": "INV-2025-00631",
+        "date": "2025-07-08",
+        "amount_eur": 780.0,
+        "days_overdue": 0,
+        "pdf_available": true,
+        "pdf_type": "invoice"
+      },
+      {
+        "doc_type": "Invoice",
+        "doc_number": "INV-2025-00311",
+        "date": "2025-03-17",
+        "amount_eur": 1999.99,
+        "days_overdue": 0,
+        "pdf_available": true,
+        "pdf_type": "invoice"
+      },
+      {
+        "doc_type": "Proforma",
+        "doc_number": "PF-2025-00101",
+        "date": "2025-02-02",
+        "amount_eur": 415.2,
+        "days_overdue": 0,
+        "pdf_available": true,
+        "pdf_type": "proforma"
+      },
+      {
+        "doc_type": "Goods receipt",
+        "doc_number": "GR-2025-00221",
+        "date": "2025-04-11",
+        "amount_eur": 60.0,
+        "days_overdue": 0,
+        "pdf_available": false,
+        "pdf_type": null
+      }
+    ],
+    "2024": [
+      {
+        "doc_type": "Invoice",
+        "doc_number": "INV-2024-00803",
+        "date": "2024-11-29",
+        "amount_eur": 310.0,
+        "days_overdue": 0,
+        "pdf_available": true,
+        "pdf_type": "invoice"
+      },
+      {
+        "doc_type": "Proforma",
+        "doc_number": "PF-2024-00220",
+        "date": "2024-09-14",
+        "amount_eur": 520.0,
+        "days_overdue": 0,
+        "pdf_available": true,
+        "pdf_type": "proforma"
+      }
+    ]
+  }
+}
