@@ -45,3 +45,4 @@ We use **SemVer**:
 
 - `0.x.y` = MVP iteration
 - `1.0.0` = first production-ready Live version
+Test update 0.1.2
