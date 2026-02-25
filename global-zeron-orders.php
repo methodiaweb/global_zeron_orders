@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Global Zeron orders
  * Description: MVP: Replace WooCommerce My Account orders with a Zeron obligations view (Dummy/Live mode).
- * Version: 0.1.1
+ * Version: 0.1.2
  * Author: Global Aesthetics
  * Requires at least: 6.2
  * Requires PHP: 8.1
@@ -16,7 +16,7 @@ declare(strict_types=1);
 
 if (!defined('ABSPATH')) { exit; }
 
-define('GZO_VERSION', '0.1.1');
+define('GZO_VERSION', '0.1.2');
 define('GZO_PLUGIN_FILE', __FILE__);
 define('GZO_PLUGIN_DIR', plugin_dir_path(__FILE__));
 define('GZO_PLUGIN_URL', plugin_dir_url(__FILE__));
